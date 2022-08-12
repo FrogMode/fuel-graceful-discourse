@@ -11,7 +11,8 @@
   height: 100vh;
   width: 100vw;
   z-index: -1;
-  background-color: var(
+  background-color: aliceblue;
+    /*(
     --gf-primary-very-low-or-primary-low,
     $primary-very-low
   );
@@ -32,6 +33,7 @@
       background-position: center center;
     }
   }
+    */
 }
 
 .topic-list-body {
